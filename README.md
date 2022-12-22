@@ -6,12 +6,13 @@
 ```typescript
 const Ghost = {
     pronouns: "he" | "him" | "ghost",
-    languagues: [Javascript, Typescript, HTML, CSS, Go],
-    frameworks: [Angular, Jasmine & Karma, ExpressJS, Mongoose],
+    languagues: ["Javascript", "Typescript", "HTML", "CSS", "Go"],
+    frameworks: ["Angular", "Jasmine & Karma", "ExpressJS", "Mongoose"],
     other: ["Microservices", "REST", "NGINX", "MongoDB", "AWS", "SASS"],
     challenges: [
           "I am building a Blogs at https://dangtrinh.site/home",
-          "Reading challenge at https://www.goodreads.com/user_challenges/32977740"
+          "Reading challenge at https://www.goodreads.com/user_challenges/32977740",
+          "Doing problems solving challenges at https://www.codewars.com/users/Ghost96"
     ]
 }
 ```
