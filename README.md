@@ -10,9 +10,9 @@ const Ghost = {
     frameworks: ["Angular", "NestJS", "Jasmine & Karma", "NodeJS", "ExpressJS", "Mongoose"],
     other: ["Microservices", "RESTFul", "NGINX", "MongoDB", "AWS", "SASS", "PostgreSQL"],
     challenges: [
-          "I am building a Blogs at [https://dangtrinh.site/home](https://dangtrinh.site/home)",
-          "Reading challenge at [https://www.goodreads.com/user_challenges/32977740](https://www.goodreads.com/challenges/11634-2024-reading-challenge)",
-          "Doing problems solving challenges at [https://www.codewars.com/users/Ghost96](https://www.codewars.com/users/Ghost96)https://www.codewars.com/users/Ghost96"
+          "I am building a Blogs at https://dangtrinh.site/home",
+          "Reading challenge at https://www.goodreads.com/challenges/11634-2024-reading-challenge",
+          "Doing problems solving challenges at https://www.codewars.com/users/Ghost96
     ]
 }
 ```
