@@ -7,7 +7,7 @@
 const Ghost = {
     pronouns: "he" | "him" | "ghost",
     languagues: ["Javascript", "Typescript", "HTML", "CSS"],
-    frameworks: ["Angular", "NestJS", "Jasmine & Karma", "NodeJS", "ExpressJS", "Mongoose"],
+    frameworks: ["Angular", "NestJS", "Jasmine & Karma", "Jest", "NodeJS", "ExpressJS", "Mongoose"],
     other: ["Microservices", "RESTFul", "NGINX", "MongoDB", "AWS", "SASS", "PostgreSQL"],
     challenges: [
           "I am building a Blogs at https://dangtrinh.site/home",
