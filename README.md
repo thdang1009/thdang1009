@@ -11,7 +11,6 @@ const Dan = {
     other: ["Microservices", "RESTFul", "NGINX", "MongoDB", "AWS", "SASS", "PostgreSQL"],
     challenges: [
           "I am building a Blogs at https://dangtrinh.site/home",
-          "Reading challenge at https://www.goodreads.com/challenges/11634-2024-reading-challenge",
           "Doing problems solving challenges at https://www.codewars.com/users/Ghost96
     ]
 }
